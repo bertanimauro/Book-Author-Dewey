@@ -4,9 +4,10 @@ relation between Dewey numbers of the same author
 Un esempio di inferenza sui dati può essere la seguente:
 
 Database:
-Autore ex:write book .
-book ex:hasDewey number
-
+<table>
+<td>Author</td> <td>ex:write</td> <td>book</td> .
+<td>book</td> <td>ex:hasDewey</td> <td>number</td>
+</table>
 E' possibile fare un'inferenza tale:
 Author1 ex:write book1.
 book1 ex:hasDewey number1
