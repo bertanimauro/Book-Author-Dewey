@@ -20,3 +20,6 @@ E' possibile fare un'inferenza tale:
 </table>
 
 number1 and number2 sono correlati. Molto spesso, non sempre, ma nei libri successivi un autore parla di cose correlate con i libri precedenti. Molto spessso i libri successivi sono la continuazione dei precedenti.
+
+Nel file authorAB1970-Author-Dewey.cvs gli autori con il relativo numero dewey dei loro libri.
+Nel file authorAB1970-reletionMaterie.cvs le relazioni tra le classi Dewey
